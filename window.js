@@ -1,4 +1,5 @@
 
+
 var userName = prompt('What is your name ?');
 var pic2 = prompt( 'which pic ?' , 'school , student');
 var pic = prompt('How many school pic , student pic do u like to see ?');
@@ -14,8 +15,5 @@ if(pic2 === 'school'){
     document.write('<img src= "https://m.economictimes.com/thumb/msid-77391367,width-1200,height-900,resizemode-4,imgsize-677864/to-reduce-risk-experts-say-schools-should-make-adjustments-when-resuming-in-person-classes-.jpg "  width="100" height="100"/>')
 }
     
-
-else { alert('Welcome to our Acadimy')
-}
     
   }
