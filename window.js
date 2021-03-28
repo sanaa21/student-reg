@@ -7,7 +7,7 @@ var pic = prompt('How many school pic , student pic do u like to see ?');
 //while(pic2!=='school'&& pic2!=='student'){
    // pic=ptompt('plz enter on of them student or school..pic');
 //}
-  for (var i = 1 ; i <=pic2; i++ ){
+  for (var i = 1 ; i <=pic; i++ ){
 
 if(pic2 === 'school'){
     document.write('<img src= " https://www.greatschools.org/gk/wp-content/uploads/2014/03/The-school-visit-what-to-look-for-what-to-ask-1-360x180.jpg"/>') 
