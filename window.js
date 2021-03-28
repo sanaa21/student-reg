@@ -13,7 +13,6 @@ if(pic2 === 'school'){
     document.write('<img src= " https://www.greatschools.org/gk/wp-content/uploads/2014/03/The-school-visit-what-to-look-for-what-to-ask-1-360x180.jpg"/>') 
 }else if (pic2=== 'student'){
     document.write('<img src= "https://m.economictimes.com/thumb/msid-77391367,width-1200,height-900,resizemode-4,imgsize-677864/to-reduce-risk-experts-say-schools-should-make-adjustments-when-resuming-in-person-classes-.jpg "  width="100" height="100"/>')
-}
-    
+}   
     
   }
