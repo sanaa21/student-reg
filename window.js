@@ -2,7 +2,7 @@
 var userName = prompt('What is your name ?');
 var pic = ptompt('How many school pic , student pic do u like to see ?');
 
-  for (var i = 1 ; i <=pic; i++ )
+  for (var i = 1 ; i <=pic; i++ ){
 
 if(pic === 'school'){
     document.write('<img src= " https://www.greatschools.org/gk/wp-content/uploads/2014/03/The-school-visit-what-to-look-for-what-to-ask-1-360x180.jpg"/>') 
@@ -12,3 +12,4 @@ if(pic === 'school'){
     else {
     alert('Welcome to our Acadimy')
 }
+  }
