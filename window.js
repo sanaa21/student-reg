@@ -1,5 +1,5 @@
 var userName = prompt('What is your name ?');
-var pic = ptompt('How many school pic , student pic do u like to see ?');
+var pic = prompt('How many school pic , student pic do u like to see ?');
 var pic2= prompt( 'which pic ?' , 'school , student');
 while(pic2!=='school'&& pic2!=='student'){
     pic=ptompt('plz enter on of them student or school..pic');
